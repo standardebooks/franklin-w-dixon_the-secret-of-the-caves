@@ -28,9 +28,9 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Secret of the Caves</dc:title>
 		<meta property="file-as" refines="#title">Secret of the Caves, The</meta>
-		<dc:subject id="subject-1">Brothers⁠—Juvenile fiction</dc:subject>
+		<dc:subject id="subject-1">Brothers⁠ -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-2">Mystery and detective stories</dc:subject>
-		<dc:subject id="subject-3">Hardy Boys (Fictitious characters)⁠—Juvenile fiction</dc:subject>
+		<dc:subject id="subject-3">Hardy Boys (Fictitious characters)⁠ -- Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2009116961</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
@@ -49,7 +49,6 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20240415</dc:source>
 		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Secret_of_the_Caves</meta>
