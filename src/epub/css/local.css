@@ -20,3 +20,8 @@ p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
 }
+
+#chapter-19 blockquote p{
+	text-align: center;
+	text-indent: 0;
+}
