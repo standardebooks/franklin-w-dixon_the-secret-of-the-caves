@@ -25,3 +25,7 @@ p span.i1{
 	text-align: center;
 	text-indent: 0;
 }
+
+#chapter-19 blockquote header{
+	font-variant: small-caps;
+}
