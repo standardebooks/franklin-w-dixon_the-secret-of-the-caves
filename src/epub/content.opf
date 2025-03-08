@@ -44,7 +44,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Hardy Boys</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">7</meta>
-		<dc:description id="description">Four boys vacation at nearby caves only to be sweapt up in a mystery.</dc:description>
+		<dc:description id="description">Four boys vacation at nearby caves only to be swept up in a mystery.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Summer holidays are here for the &lt;a href="https://standardebooks.org/collections/the-hardy-boys"&gt;Hardy boys&lt;/a&gt; and their friends. To celebrate, they decide to take a trip to Honeycomb Caves, which are fabled to have hidden treasure, to explore and see if they can uncover the riches rumored to lie within. A wanted criminal prowling around nearby, and reports of screams and gun shots near the caves, aren’t enough to deter the boys, who are out for adventure and mystery. But with stolen food, a harrowing storm, and steep cliffs where one misstep is the last step, have the boys put themselves in more danger than they bargained for?&lt;/p&gt;
 			&lt;p&gt;This book was published in 1929 and then rewritten in 1965. This Standard Ebooks edition follows the original 1929 edition.&lt;/p&gt;
