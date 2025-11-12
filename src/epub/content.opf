@@ -72,6 +72,7 @@
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">https://www.pgdpcanada.net/</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Cindy Beyer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Beyer, Cindy</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdpcanada.net/</meta>
@@ -79,7 +80,6 @@
 		<dc:contributor id="transcriber-3">Distributed Proofreaders Canada</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders Canada</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdpcanada.net/</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Elizabeth Miller-Boldt</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Miller-Boldt, Elizabeth</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
