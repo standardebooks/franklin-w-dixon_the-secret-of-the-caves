@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves</dc:identifier>
 		<dc:date>2025-03-07T19:50:20Z</dc:date>
@@ -46,11 +46,11 @@
 		<meta id="collection-1" property="belongs-to-collection">The Hardy Boys</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">7</meta>
-		<dc:description id="description">Four boys vacation at nearby caves only to be swept up in a mystery.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Four boys vacation at nearby caves only to be swept up in a mystery.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Summer holidays are here for the &lt;a href="https://standardebooks.org/collections/the-hardy-boys"&gt;Hardy boys&lt;/a&gt; and their friends. To celebrate, they decide to take a trip to Honeycomb Caves, which are fabled to have hidden treasure, to explore and see if they can uncover the riches rumored to lie within. A wanted criminal prowling around nearby, and reports of screams and gun shots near the caves, aren’t enough to deter the boys, who are out for adventure and mystery. But with stolen food, a harrowing storm, and steep cliffs where one misstep is the last step, have the boys put themselves in more danger than they bargained for?&lt;/p&gt;
 			&lt;p&gt;This book was published in 1929 and then rewritten in 1965. This Standard Ebooks edition follows the original 1929 edition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20240415</dc:source>
 		<dc:source>https://archive.org/details/secretofcaveshb00000fran</dc:source>
