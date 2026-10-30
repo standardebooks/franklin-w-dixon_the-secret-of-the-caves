@@ -73,12 +73,10 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
-		<link href="https://www.pgdpcanada.net/" refines="#transcriber-1" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Cindy Beyer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Beyer, Cindy</meta>
-		<link href="https://www.pgdpcanada.net/" refines="#transcriber-2" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders Canada</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders Canada</meta>
